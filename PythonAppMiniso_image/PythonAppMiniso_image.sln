@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAppMiniso_image", "PythonAppMiniso_image.pyproj", "{09FAE104-176A-4D43-A268-5AA2BAEA8433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09FAE104-176A-4D43-A268-5AA2BAEA8433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FAE104-176A-4D43-A268-5AA2BAEA8433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D204B2A-6F72-491E-813D-6C5A414938FC}
+	EndGlobalSection
+EndGlobal
